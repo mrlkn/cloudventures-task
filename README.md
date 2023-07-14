@@ -1,6 +1,6 @@
-# Abstract Factory Pattern Implementation for DAOs
+# Abstract Factory Pattern Implementation for Cloudventures Task
 
-This project provides an implementation of the Abstract Factory pattern for creating Data Access Objects (DAOs) in Python. It's designed with flexibility and extensibility in mind, allowing developers to easily add support for new types of databases without modifying existing code.
+This project provides an implementation of the Abstract Factory pattern for creating Data Access Objects (DAOs).
 
 ## Overview
 
